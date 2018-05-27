@@ -1,7 +1,9 @@
 /**
  * @flow
  */
-
+/**
+Rename this file to env.js
+**/
 
 const defaults = {};
 
